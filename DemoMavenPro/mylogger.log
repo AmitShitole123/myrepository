@@ -1,0 +1,23 @@
+[ERROR] 2022-12-30 14:55:17.904 [main] LoggerDemo - Error Message!
+[FATAL] 2022-12-30 14:55:17.909 [main] LoggerDemo - Fatal Message!
+[ERROR] 2022-12-30 14:56:27.543 [main] LoggerDemo - Error Message!
+[FATAL] 2022-12-30 14:56:27.560 [main] LoggerDemo - Fatal Message!
+[ERROR] 2022-12-30 15:58:56.455 [main] LoggerDemo - Error Message!
+[FATAL] 2022-12-30 15:58:56.474 [main] LoggerDemo - Fatal Message!
+[ERROR] 2022-12-30 15:59:24.528 [main] LoggerDemo - Error Message!
+[FATAL] 2022-12-30 15:59:24.531 [main] LoggerDemo - Fatal Message!
+[TRACE] 2022-12-30 16:00:13.123 [main] LoggerDemo - Trace Message!
+[DEBUG] 2022-12-30 16:00:13.143 [main] LoggerDemo - Debug Message!
+[INFO ] 2022-12-30 16:00:13.144 [main] LoggerDemo - Info Message!
+[WARN ] 2022-12-30 16:00:13.144 [main] LoggerDemo - Warn Message!
+[ERROR] 2022-12-30 16:00:13.148 [main] LoggerDemo - Error Message!
+[FATAL] 2022-12-30 16:00:13.148 [main] LoggerDemo - Fatal Message!
+[TRACE] 2022-12-30 16:01:14.941 [main] LoggerDemo - Trace Message!
+[DEBUG] 2022-12-30 16:01:14.966 [main] LoggerDemo - Debug Message!
+[INFO ] 2022-12-30 16:01:14.968 [main] LoggerDemo - Info Message!
+[WARN ] 2022-12-30 16:01:14.968 [main] LoggerDemo - Warn Message!
+[ERROR] 2022-12-30 16:01:14.969 [main] LoggerDemo - Error Message!
+[FATAL] 2022-12-30 16:01:14.969 [main] LoggerDemo - Fatal Message!
+[INFO ] 2022-12-30 16:01:14.969 [main] LoggerDemo - erwsrdtf
+[WARN ] 2022-12-30 16:12:25.751 [main] LoggerDemo - {"Action":"1","dataArray":[{"actionArray":["INS_PRD"],"cailmailObject":{"ActiveStatus":1,"keyType":"TSK","SubkeyType":"TSK_PRD_LST","CML_Title":"Watch","RefId":"DomainName#PRJ#SEC#TSK"},"essentialArray":[" "]}],"moduleName":"PRD","requestId":"xyz","SocketId":"abc","AuthenticationToken":"123","UserId":"535"}
+[WARN ] 2022-12-30 16:50:55.296 [main] LoggerDemo - {"Action":"1","dataArray":[{"actionArray":["INS_PRD"],"cailmailObject":{"ActiveStatus":1,"keyType":"TSK","SubkeyType":"TSK_PRD_LST","CML_Title":"Watch","RefId":"DomainName#PRJ#SEC#TSK"},"essentialArray":[" "]}],"moduleName":"PRD","requestId":"xyz","SocketId":"abc","AuthenticationToken":"123","UserId":"535"}
